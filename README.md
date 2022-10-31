@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @eliteninza
+- 👋 Hi, I’m @jazzie
 - 👀 I’m interested in android dev.
-- 🌱 I’m currently learning Android Dev and MySQL.
-- 💞️ I’m looking to collaborate on Android Open Source Projects.
+- 🌱 I’m currently learning Web Development and Angular FrameWork.
+- 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 Reach me @eliteninza@gmail.com.
 
 <!---
